@@ -73,9 +73,4 @@ $ python3
 
 ```bash
 $ dpkg -l | grep nvinfer
-ii  libnvinfer-bin                    8.5.0-1+cuda11.8                  amd64        TensorRT binaries
-ii  libnvinfer-dev                    8.5.0-1+cuda11.8                  amd64        TensorRT development libraries and headers
-ii  libnvinfer-plugin-dev             8.5.0-1+cuda11.8                  amd64        TensorRT plugin libraries and headers
-ii  libnvinfer-plugin8                8.5.0-1+cuda11.8                  amd64        TensorRT plugin library
-ii  libnvinfer8                       8.5.0-1+cuda11.8                  amd64        TensorRT runtime libraries
 ```
