@@ -2,9 +2,9 @@
 
 ### **System**
 
-| OS | Kernel |
-| --- | --- |
-| Linux | 5.4.0-125-generic |
+| OS | Version | Kernel |
+| --- | --- | --- |
+| Linux | Debian 20.04.5 | 5.4.0-125-generic |
 
 ```bash
 $ uname
